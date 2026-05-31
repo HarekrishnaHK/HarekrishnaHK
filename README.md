@@ -80,25 +80,25 @@ Currently working toward becoming an AI Engineer capable of designing, building,
 
 ✅ Data Structures & Algorithms
 
-🔄 Machine Learning
+✅ Machine Learning
 
-🔄 Deep Learning
+✅ Deep Learning
 
-🔄 Computer Vision
+✅ Computer Vision
 
-🔄 CNN Architectures
+✅ CNN Architectures
 
-🔄 RNN & LSTM
+✅ RNN & LSTM
 
-🔄 Natural Language Processing
+✅ Natural Language Processing
 
 🔄 Generative AI
 
 🔄 Large Language Models (LLMs)
 
-🔄 Docker
+✅ Docker
 
-🔄 MLOps
+✅ MLOps
 
 🎯 AI Engineering
 
