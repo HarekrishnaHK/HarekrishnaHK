@@ -11,51 +11,51 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+Aspiring;Deep+Learning+Enthusiast;Computer+Vision+Developer;Generative+AI+Learner;Java+Developer" />
 
 </div>
-
+<p align="center">
+  <img src="banner.gif" width="100%">
+</p>
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-🎓 B.Tech in Computer Science & Engineering (Data Science)
+I'm Harekrishna, a Data Science student who enjoys transforming ideas into intelligent systems.
 
-🏫 The Neotia University (2022 - 2026)
+My journey started with writing simple Java programs and gradually evolved into exploring Machine Learning, Deep Learning, Computer Vision, and Artificial Intelligence.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Deep Learning.
+I enjoy understanding how models learn, how data tells stories, and how software can be designed to solve real-world problems. Whether it's building CNN-based image classifiers, experimenting with neural networks, or learning the architecture behind modern AI systems, I'm always curious about what happens behind the scenes.
 
-🔭 Currently Building
+I believe technology is most exciting when it combines logic, creativity, and continuous learning.
 
-* Plant Disease Detection using CNN
-* Brain Tumor Classification using Deep Learning
-* Handwritten Digit Recognition using CNN
-* AI Powered Sleep Quality Analysis
-
-🌱 Currently Learning
+Currently focused on building a strong foundation in:
 
 * Machine Learning
 * Deep Learning
-* Generative AI
-* Large Language Models (LLMs)
-* MLOps
-
-🎯 Goal
-
-Become a Machine Learning Engineer and contribute to solving real-world problems using AI.
+* Natural Language Processing
+* Computer Vision
+* Large Language Models
+* AI Engineering
 
 ---
 
-## 🛠 Tech Arsenal
+# ⚙️ Tech Universe
 
-### Languages
+### Programming
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=mysql)
 
-### AI / Machine Learning
+### AI & Machine Learning
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-0D1117?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-0D1117?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-0D1117?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge\&logo=keras)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0D1117?style=for-the-badge\&logo=scikitlearn)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-0D1117?style=for-the-badge\&logo=scikitlearn)
 
 ### Data Science
 
@@ -63,110 +63,81 @@ Become a Machine Learning Engineer and contribute to solving real-world problems
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge)
 
-### Tools
+### Development & Tools
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge\&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge\&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0D1117?style=for-the-badge\&logo=googlecolab)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 AI Engineer Roadmap
 
-### 🌿 Plant Disease Detection
+```text
+Java            ██████████ 90%
 
-CNN model trained on PlantVillage dataset for crop disease identification.
+Python          ████████░░ 80%
 
-### 🧠 Brain Tumor Classification
+SQL             ████████░░ 80%
 
-Deep Learning model trained on MRI scans for tumor detection.
+Data Structures ███████░░░ 70%
 
-### ✍ Handwritten Digit Recognition
+Machine Learning███████░░░ 70%
 
-CNN based digit recognition system with image prediction interface.
+Deep Learning   ██████░░░░ 60%
 
-### 😴 AI Powered Sleep Quality Analysis
+CNN             ██████░░░░ 60%
 
-Computer Vision based sleep monitoring and analysis system.
+Computer Vision ██████░░░░ 60%
 
----
+NLP             █████░░░░░ 50%
 
-## 🏆 Achievements
+RNN / LSTM      █████░░░░░ 50%
 
-🥈 National Level Hackathon Participant
+Docker          ████░░░░░░ 40%
 
-📚 Strong Academic Foundation in Data Science
+MLOps           ███░░░░░░░ 30%
 
-💻 Passionate Open Source Learner
+LLMs            ███░░░░░░░ 30%
 
-🚀 Building AI Projects Continuously
-
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=HarekrishnaHK\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarekrishnaHK\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarekrishnaHK\&layout=compact\&theme=tokyonight\&hide_border=true)
+AI Engineering  🚀 Loading...
+```
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
-![](https://github-profile-trophy.vercel.app/?username=HarekrishnaHK\&theme=onedark\&no-frame=true\&row=1)
+💼 LinkedIn
 
----
+https://linkedin.com/in/harekrishna-adhikary-8175982aa
 
-## 📈 Contribution Activity
+🌍 Portfolio
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=HarekrishnaHK\&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/HarekrishnaHK/HarekrishnaHK/blob/output/github-contribution-grid-snake-dark.svg)
+https://harekrishna-portfolio.lovable.app
 
 ---
 
-## 💡 Current Learning Path
+# 💭 Favorite Quote
 
-✔ Java Fundamentals
-
-✔ Data Structures & Algorithms
-
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Generative AI
-
-⬜ MLOps
-
-⬜ LLM Engineering
-
-⬜ AI Deployment
+> "My code works perfectly...
+>
+> until I show it to someone.
+>
+> Then it discovers new features by itself."
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+### 🚀 Building Today For The AI Systems Of Tomorrow
 
-💼 LinkedIn: your-linkedin-url
+*"Every bug teaches. Every project improves. Every commit compounds."*
 
-🌐 Portfolio: your-portfolio-url
-
+</div>
 ---
-
-## 💭 Favorite Quote
-
-> "The future belongs to those who learn more skills and combine them in creative ways."
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for Visiting My Profile ⭐
